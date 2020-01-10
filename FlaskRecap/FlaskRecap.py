@@ -8,8 +8,7 @@ greetings = {
             'ar': 'مرحبا',
             'ru': 'Привет',
             'fi': 'Hei',
-            'he': 'שלום',
-            'ja': 'こんにちは'
+            'he': 'שלום'
             }
 
 @app.route('/greeting', methods=['GET'])
